@@ -12,6 +12,7 @@
     "tag": "0.1"
   },
   "source_files": "Source/**/*.{h,m}",
+  "exclude_files": "Source/include/**",
   "requires_arc": true,
   "libraries": "xml2",
   "xcconfig": {

@@ -1,0 +1,5 @@
+module TouchXML {
+    umbrella "TouchXML"
+    export *
+    module * { export * }
+}
